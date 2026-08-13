@@ -44,16 +44,16 @@ DMIT 洛杉矶的产品线分三个系列：
 
 | 套餐名 | CPU | 内存 | SSD | 月流量 | 带宽 | 价格 | 购买 |
 |---|---|---|---|---|---|---|---|
-| LAX.Pro.WEE | 1核 | 1G | 20G | 500GB | 500Mbps | $36.9/年 | [ 以 $36.9/年入手 CN2 GIA](https://www.dmit.io/aff.php?aff=13832&pid=183) |
-| LAX.Pro.MALIBU ⚡限量 | 1核 | 1G | 20G | 1000GB | 1Gbps | $49.9/年 | [ 查看 MALIBU 是否有货](https://www.dmit.io/aff.php?aff=13832&pid=186) |
-| LAX.Pro.PalmSpring | 2核 | 2G | 40G | 2000GB | 2Gbps | $100/年 | [ 选 PalmSpring 方案](https://www.dmit.io/aff.php?aff=13832) |
-| LAX.Pro.Irvine | 2核+ | 2G+ | 40G+ | 3000GB+ | 5Gbps | $159/年 | [ 选 Irvine 方案](https://www.dmit.io/aff.php?aff=13832) |
+| LAX.Pro.WEE | 1核 | 1G | 20G | 500GB | 500Mbps | $36.9/年 | [ 以 $36.9/年入手 CN2 GIA](https://www.dmit.io/aff.php?aff=2095&pid=183) |
+| LAX.Pro.MALIBU ⚡限量 | 1核 | 1G | 20G | 1000GB | 1Gbps | $49.9/年 | [ 查看 MALIBU 是否有货](https://www.dmit.io/aff.php?aff=2095&pid=186) |
+| LAX.Pro.PalmSpring | 2核 | 2G | 40G | 2000GB | 2Gbps | $100/年 | [ 选 PalmSpring 方案](https://www.dmit.io/aff.php?aff=2095) |
+| LAX.Pro.Irvine | 2核+ | 2G+ | 40G+ | 3000GB+ | 5Gbps | $159/年 | [ 选 Irvine 方案](https://www.dmit.io/aff.php?aff=2095) |
 
 > 流量超出后不停机，降速继续用——WEE 和 MALIBU 超量后限速 2Mbps，PalmSpring 及以上限速 4Mbps。
 
 如果你是来对比 **LAX.EB（CMIN2）** 系列的，EB.WEE 年付 $39.9，比 Pro.WEE 贵三块钱但流量翻倍（1TB），带宽也是 1Gbps，对联通移动用户来说性价比更高。
 
-👉 [查看 DMIT 洛杉矶所有在售套餐](https://www.dmit.io/aff.php?aff=13832)
+👉 [查看 DMIT 洛杉矶所有在售套餐](https://www.dmit.io/aff.php?aff=2095)
 
 ---
 
@@ -139,4 +139,4 @@ DMIT 洛杉矶 CN2 GIA 不是最便宜的 VPS，但在这条线路上做得够�
 
 如果你现在用的美西 VPS 一到晚上就掉速，这条线路值得换来试试。3 天全额退款政策放在这，风险不大。
 
-👉 [前往 DMIT 查看洛杉矶 CN2 GIA 套餐现货](https://www.dmit.io/aff.php?aff=13832)
+👉 [前往 DMIT 查看洛杉矶 CN2 GIA 套餐现货](https://www.dmit.io/aff.php?aff=2095)
